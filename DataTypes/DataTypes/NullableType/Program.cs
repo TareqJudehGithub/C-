@@ -1,0 +1,19 @@
+﻿namespace NullableType
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Nullable Types in C#\n");
+
+            /*     Nulls means to having a defined variable.
+                    Nullables allow us to assign null values to variables.
+                    In order to assign a null value, and without the compiler returning any errors, we should
+                    add a "?" next to the data type.
+            */
+
+            int? int1 = null;
+            bool? b1 = null;
+        }
+    }
+}

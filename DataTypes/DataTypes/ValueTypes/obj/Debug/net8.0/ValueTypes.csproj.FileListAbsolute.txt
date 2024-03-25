@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\Fundamentals\DataTypes\DataTypes\ValueTypes\bin\Debug\net8.0\ValueTypes.exe
+E:\web\ASP_NET\Trevor\Fundamentals\DataTypes\DataTypes\ValueTypes\bin\Debug\net8.0\ValueTypes.deps.json
+E:\web\ASP_NET\Trevor\Fundamentals\DataTypes\DataTypes\ValueTypes\bin\Debug\net8.0\ValueTypes.runtimeconfig.json
+E:\web\ASP_NET\Trevor\Fundamentals\DataTypes\DataTypes\ValueTypes\bin\Debug\net8.0\ValueTypes.dll
+E:\web\ASP_NET\Trevor\Fundamentals\DataTypes\DataTypes\ValueTypes\bin\Debug\net8.0\ValueTypes.pdb
+E:\web\ASP_NET\Trevor\Fundamentals\DataTypes\DataTypes\ValueTypes\obj\Debug\net8.0\ValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\Fundamentals\DataTypes\DataTypes\ValueTypes\obj\Debug\net8.0\ValueTypes.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\Fundamentals\DataTypes\DataTypes\ValueTypes\obj\Debug\net8.0\ValueTypes.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\Fundamentals\DataTypes\DataTypes\ValueTypes\obj\Debug\net8.0\ValueTypes.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\Fundamentals\DataTypes\DataTypes\ValueTypes\obj\Debug\net8.0\ValueTypes.sourcelink.json
+E:\web\ASP_NET\Trevor\Fundamentals\DataTypes\DataTypes\ValueTypes\obj\Debug\net8.0\ValueTypes.dll
+E:\web\ASP_NET\Trevor\Fundamentals\DataTypes\DataTypes\ValueTypes\obj\Debug\net8.0\refint\ValueTypes.dll
+E:\web\ASP_NET\Trevor\Fundamentals\DataTypes\DataTypes\ValueTypes\obj\Debug\net8.0\ValueTypes.pdb
+E:\web\ASP_NET\Trevor\Fundamentals\DataTypes\DataTypes\ValueTypes\obj\Debug\net8.0\ValueTypes.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\Fundamentals\DataTypes\DataTypes\ValueTypes\obj\Debug\net8.0\ref\ValueTypes.dll

@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\Fundamentals\HelloWorld\ZTM.NET\HelloWorldExplicit\bin\Debug\net8.0\HelloWorldExplicit.exe
+E:\web\ASP_NET\Trevor\Fundamentals\HelloWorld\ZTM.NET\HelloWorldExplicit\bin\Debug\net8.0\HelloWorldExplicit.deps.json
+E:\web\ASP_NET\Trevor\Fundamentals\HelloWorld\ZTM.NET\HelloWorldExplicit\bin\Debug\net8.0\HelloWorldExplicit.runtimeconfig.json
+E:\web\ASP_NET\Trevor\Fundamentals\HelloWorld\ZTM.NET\HelloWorldExplicit\bin\Debug\net8.0\HelloWorldExplicit.dll
+E:\web\ASP_NET\Trevor\Fundamentals\HelloWorld\ZTM.NET\HelloWorldExplicit\bin\Debug\net8.0\HelloWorldExplicit.pdb
+E:\web\ASP_NET\Trevor\Fundamentals\HelloWorld\ZTM.NET\HelloWorldExplicit\obj\Debug\net8.0\HelloWorldExplicit.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\Fundamentals\HelloWorld\ZTM.NET\HelloWorldExplicit\obj\Debug\net8.0\HelloWorldExplicit.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\Fundamentals\HelloWorld\ZTM.NET\HelloWorldExplicit\obj\Debug\net8.0\HelloWorldExplicit.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\Fundamentals\HelloWorld\ZTM.NET\HelloWorldExplicit\obj\Debug\net8.0\HelloWorldExplicit.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\Fundamentals\HelloWorld\ZTM.NET\HelloWorldExplicit\obj\Debug\net8.0\HelloWorldExplicit.sourcelink.json
+E:\web\ASP_NET\Trevor\Fundamentals\HelloWorld\ZTM.NET\HelloWorldExplicit\obj\Debug\net8.0\HelloWorldExplicit.dll
+E:\web\ASP_NET\Trevor\Fundamentals\HelloWorld\ZTM.NET\HelloWorldExplicit\obj\Debug\net8.0\refint\HelloWorldExplicit.dll
+E:\web\ASP_NET\Trevor\Fundamentals\HelloWorld\ZTM.NET\HelloWorldExplicit\obj\Debug\net8.0\HelloWorldExplicit.pdb
+E:\web\ASP_NET\Trevor\Fundamentals\HelloWorld\ZTM.NET\HelloWorldExplicit\obj\Debug\net8.0\HelloWorldExplicit.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\Fundamentals\HelloWorld\ZTM.NET\HelloWorldExplicit\obj\Debug\net8.0\ref\HelloWorldExplicit.dll

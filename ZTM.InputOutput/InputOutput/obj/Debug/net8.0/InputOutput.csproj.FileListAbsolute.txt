@@ -1,0 +1,15 @@
+E:\web\ASP_NET\Trevor\Fundamentals\ZTM.InputOutput\InputOutput\bin\Debug\net8.0\InputOutput.exe
+E:\web\ASP_NET\Trevor\Fundamentals\ZTM.InputOutput\InputOutput\bin\Debug\net8.0\InputOutput.deps.json
+E:\web\ASP_NET\Trevor\Fundamentals\ZTM.InputOutput\InputOutput\bin\Debug\net8.0\InputOutput.runtimeconfig.json
+E:\web\ASP_NET\Trevor\Fundamentals\ZTM.InputOutput\InputOutput\bin\Debug\net8.0\InputOutput.dll
+E:\web\ASP_NET\Trevor\Fundamentals\ZTM.InputOutput\InputOutput\bin\Debug\net8.0\InputOutput.pdb
+E:\web\ASP_NET\Trevor\Fundamentals\ZTM.InputOutput\InputOutput\obj\Debug\net8.0\InputOutput.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\Trevor\Fundamentals\ZTM.InputOutput\InputOutput\obj\Debug\net8.0\InputOutput.AssemblyInfoInputs.cache
+E:\web\ASP_NET\Trevor\Fundamentals\ZTM.InputOutput\InputOutput\obj\Debug\net8.0\InputOutput.AssemblyInfo.cs
+E:\web\ASP_NET\Trevor\Fundamentals\ZTM.InputOutput\InputOutput\obj\Debug\net8.0\InputOutput.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\Trevor\Fundamentals\ZTM.InputOutput\InputOutput\obj\Debug\net8.0\InputOutput.sourcelink.json
+E:\web\ASP_NET\Trevor\Fundamentals\ZTM.InputOutput\InputOutput\obj\Debug\net8.0\InputOutput.dll
+E:\web\ASP_NET\Trevor\Fundamentals\ZTM.InputOutput\InputOutput\obj\Debug\net8.0\refint\InputOutput.dll
+E:\web\ASP_NET\Trevor\Fundamentals\ZTM.InputOutput\InputOutput\obj\Debug\net8.0\InputOutput.pdb
+E:\web\ASP_NET\Trevor\Fundamentals\ZTM.InputOutput\InputOutput\obj\Debug\net8.0\InputOutput.genruntimeconfig.cache
+E:\web\ASP_NET\Trevor\Fundamentals\ZTM.InputOutput\InputOutput\obj\Debug\net8.0\ref\InputOutput.dll

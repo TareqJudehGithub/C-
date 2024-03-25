@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "HelloWorldExplicit": {
+      "commandName": "Project"
+    }
+  }
+}
